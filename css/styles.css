@@ -1,0 +1,46 @@
+html {
+  margin: 0;
+  padding: 10px;
+  font-size: 16px;
+  background-color: azure;
+}
+
+body {
+  background-color: rgb(245, 240, 233);
+  width: 800px;
+  padding: 20px;
+  border: 2px solid rgb(173, 171, 171);
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.time {
+  display: block;
+  text-align: right;
+  margin-top: 15px;
+}
+
+.datos-derecha-emisor p {
+  margin: 0;
+  text-align: end;
+  font-style: italic;
+}
+
+.datos-izquierda-destinatario p {
+  margin: 0;
+  font-style: italic;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.despedida span {
+  display: block;
+}
+
+/* Footer / Pie de pagina */
+small {
+  display: block;
+  text-align: center;
+}
